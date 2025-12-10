@@ -1,0 +1,23 @@
+{
+  "full_name": "Maruful Islam",
+  "name": "Maruf",
+  "current_role": "AI Engineer",
+  "location": "Brussels, Belgium",
+  "email": "marufislam77@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/maruful-islam-92b9b4308/",
+  "upwork": "https://www.upwork.com/freelancers/~01f505788e2f6411d2",
+    "github": "https://github.com/isotop786",
+  "specialties": [
+    "Full Stack Development",
+    "AI and Machine Learning",
+    "DevOps and Cloud Computing with AWS"
+  ],
+  "years_experience": 5,
+  "education": [
+    {
+      "degree": "BSc in Software Engineering with Mutimedia",
+      "institution": "Limkokwing University, Malaysia",
+      "year": "December 2020"
+    }
+  ]
+}
